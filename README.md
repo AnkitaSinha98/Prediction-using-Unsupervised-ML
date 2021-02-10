@@ -19,7 +19,7 @@ Project is created with:
 * Python: 3.8.3
 
 ## Algorithm
-* Linear Regression and Supervised Learning Technique
+* 
 
 ## Libraries
 * pandas 1.0.5
