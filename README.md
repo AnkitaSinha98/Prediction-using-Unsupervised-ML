@@ -6,8 +6,8 @@
 * [Technologies](#technologies)
 * [Algorithm](#algorithm)
 * [Libraries](#libraries)
-* [Setup](#setup)
 * [YouTube](#youtube)
+* [Setup](#setup)
 
 ## General info
 1. From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually. 
