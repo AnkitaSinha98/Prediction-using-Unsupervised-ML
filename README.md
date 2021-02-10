@@ -19,7 +19,7 @@ Project is created with:
 * Python: 3.8.3
 
 ## Algorithm
-* 
+* Cluster Analysis 
 
 ## Libraries
 * pandas 1.0.5
