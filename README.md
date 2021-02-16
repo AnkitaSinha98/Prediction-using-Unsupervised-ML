@@ -27,7 +27,7 @@ Project is created with:
 * sklearn 0.0 
   
 ## YouTube
-<a href="" target="_blank">
+<a href="https://www.youtube.com/watch?v=mtK8i20R3og" target="_blank">
 <img src=" " alt="YouTube Link" width="240" height="180" border="10"/></a>
 
 ## Setup
