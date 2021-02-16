@@ -19,13 +19,12 @@ Project is created with:
 * Python: 3.8.3
 
 ## Algorithm
-* Cluster Analysis 
+* Elbow method and K-Means clustering 
 
 ## Libraries
 * pandas 1.0.5
-* numpy 1.18.5
 * matplotlib 3.3.2
-* sklearn 0.0
+* sklearn 0.0 
   
 ## YouTube
 <a href="" target="_blank">
